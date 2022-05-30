@@ -9,4 +9,4 @@ Mendel-Chodaton/Mendel-Chodaton is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/Mendel13"><img src="https://api.daily.dev/devcards/7890ca02a4d84b86bebcd549b780d224.png?r=zpp" width="400" alt="Mendel Chodaton's Dev Card"/></a>
+<a href="https://app.daily.dev/Mendel13"><img src="https://api.daily.dev/devcards/7890ca02a4d84b86bebcd549b780d224.png?r=rlq" width="400" alt="Mendel Chodaton's Dev Card"/></a>
